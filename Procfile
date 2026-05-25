@@ -1,1 +1,1 @@
-bot: python mybot.py
+bot: /app/.venv/bin/python mybot.py
