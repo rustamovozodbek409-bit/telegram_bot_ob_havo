@@ -1,5 +1,6 @@
 from asyncio import run
 
+
 from pymysql import IntegrityError
 from aiogram import Bot, Dispatcher, F
 from aiogram.filters.command import CommandStart
